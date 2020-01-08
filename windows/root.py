@@ -1,6 +1,7 @@
 from tkinter import *
 from .result import ResultWindow
 
+
 class SearchWindow:
 
     def search_click(self):

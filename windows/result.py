@@ -2,6 +2,7 @@ from tkinter import *
 import urllib.request
 import json
 
+
 class ResultWindow():
 
     def __window(self):
